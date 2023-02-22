@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# General Questions
+**What excites or interests you about coding? What did you learn this week?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Problem-solving is the aspect of coding that excites me the most. I enjoy finding solutions to complex problems and making the code as efficient as possible.
 
-## Available Scripts
+At present, I am focusing on practicing the React framework and working on basic projects to hone my skills. By building projects, I aim to gain more practical experience and understanding of the framework. 
 
-In the project directory, you can run:
+**What is a recent technical challenge you experienced and how did you solve it?
 
-### `npm start`
+The most recent technical challenge I faced was understanding the State hook in React framework. As this was a new concept for me, I referred to the official documentation published by reactjs.org and also conducted additional research online to gain a better understanding and solve the issue.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Talk about your preferred development environment (tools and technologies you prefer using) or a cool project that you've recently worked on (if any).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The tools and technologies that I have been using for programming are essential to my workflow. Specifically, I use VS Code as my code editor because of its user-friendly interface and customizable settings. I also use Chrome as my browser due to its compatibility with various web development tools and extensions. For local server setup, I prefer using XAMPP as it is a reliable and easy-to-use platform. Finally, I work on a Windows operating system which I find comfortable to use and efficient in handling programming tasks.
 
-### `npm test`
+As I have been using these tools for quite some time, I have developed a familiarity and proficiency in working with them. Therefore, I would prefer to continue using these tools in the future to maintain my productivity and efficiency while coding.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Similarly, in order to gain a more in-depth understanding of the React framework, I have been working on a To Do List project.
 
-### `npm run build`
+**What is your general expectation from this internship program?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+My primary expectation from this program is to gain valuable experience in the field of programming.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**What mediums do you prefer to learn programming?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The mediums I prefer to learn programming are online courses and tutorials, as well as hands-on experience through real-world projects.
